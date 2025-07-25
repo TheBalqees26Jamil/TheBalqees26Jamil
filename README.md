@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Balqees Jamil
 
-<!--
-**TheBalqees26Jamil/TheBalqees26Jamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **AI Student | Creative Technologist | Multilingual Content Creator**
 
-Here are some ideas to get you started:
+I'm a passionate second-year Artificial Intelligence student, exploring the intersection of machine learning, deep learning, computer vision, and natural language processing. I specialize in building intelligent systems using tools like **Python**, **TensorFlow**, **PyTorch**, and I enjoy translating complex ideas into accessible, creative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Core Skills:
+
+- Machine Learning & Deep Learning
+- Data Analysis & Computer Vision
+- Python, C++, Java, SQL, HTML
+- Front-End Prototyping with Tkinter
+- NLP and AI Model Implementation
+
+### 🎨 Creative Side:
+
+- Logo Design & Graphic Illustration
+- Technical and Creative Writing
+- English-Arabic Translation (Fluent in both)
+
+### 📚 Current Focus:
+
+- Enhancing my AI development portfolio
+- Creating real-world projects with TensorFlow & PyTorch
+- Collaborating on open-source initiatives
+- Bridging language & tech through smart translation tools
+
+### 🌍 Languages:
+
+- **English** – Fluent  
+- **Arabic** – Native
+
+---
+
+🍁 Feel free to connect or collaborate — I'm always open to learning and building something impactful!
