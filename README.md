@@ -2,7 +2,7 @@
 
 🎓 **AI Student | Creative Technologist | Multilingual Content Creator**
 
-I'm a passionate second-year Artificial Intelligence student, exploring the intersection of machine learning, deep learning, computer vision, and natural language processing. I specialize in building intelligent systems using tools like **Python**, **TensorFlow**, **PyTorch**, and I enjoy translating complex ideas into accessible, creative solutions.
+I'm a passionate third-year Artificial Intelligence student, exploring the intersection of machine learning, deep learning, computer vision, and natural language processing. I specialize in building intelligent systems using tools like **Python**, **TensorFlow**, **PyTorch**, and I enjoy translating complex ideas into accessible, creative solutions.
 
 ### 🧠 Core Skills:
 
